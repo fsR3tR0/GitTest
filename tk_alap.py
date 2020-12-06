@@ -13,4 +13,7 @@ l_test.pack()
 l_uj = Label(root,text="Ez mar uj verzio")
 l_uj.pack()
 
+b_exit = Button(root,text="Exit",command=root.quit)
+b_exit.pack()
+
 root.mainloop()

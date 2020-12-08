@@ -1,6 +1,4 @@
-#include <stdlib.h>
-#include <stdio.h>
-#include <inttypes.h>
+#include "inc.h"
 
 typedef uint8_t u8;
 typedef uint16_t u16;
